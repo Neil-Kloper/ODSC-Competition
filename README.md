@@ -13,6 +13,3 @@ Results:
 * RMSE of  stator_yoke :  0.3251881871060305
 * RMSE of  stator_winding :  0.5104669774403504
 
-
-
-Repo is WIP, actual notebooks to be uploaded by 8/25/2020
